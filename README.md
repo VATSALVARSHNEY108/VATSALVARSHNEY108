@@ -16,18 +16,14 @@
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-Live-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vatsal-varshney108/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/VATSALVARSHNEY108">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue&label=Profile+Views"/>
 
 </div>
 
@@ -42,7 +38,7 @@ I enjoy transforming ideas into impactful products through a combination of **Ar
 - 🔭 Currently building **THINK++**
 - 🌱 Learning **System Design, Advanced Backend Engineering & MLOps**
 - 🤖 Exploring **LLMs, Agentic AI & RAG Systems**
-- 💻 Solved **500+ DSA problems** across coding platforms
+- 💻 Solved **1000+ DSA problems** across coding platforms
 - 🎯 Goal: Crack top Software Engineering and AI internships
 
 ---
